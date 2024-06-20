@@ -21,7 +21,7 @@
 
 ## Description
 
-Display the distribution of dengue cases across different cities in India. This visualizes the geographic spread and intensity of outbreaks.
+HeatMap of tuberculosis (TB) sufferers in major cities of India. Distribution of active tuberculosis (TB) cases across different cities in India. This visualizes the geographic spread and intensity of outbreaks.
 
 ## Video
 
