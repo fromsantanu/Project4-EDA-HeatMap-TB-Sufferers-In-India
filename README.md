@@ -48,6 +48,35 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+**This program generates a scatter plot to visualize the distribution of tuberculosis (TB) sufferers across major Indian cities. Here are the key insights that can be derived from the output:**
+
+- **Geographical Distribution:**
+
+  - The scatter plot displays the locations of major Indian cities, with each point representing a city. The positions are determined by their longitude and latitude.
+  
+- **Intensity of TB Cases:**
+
+  - The color gradient (using the 'OrRd' colormap) indicates the number of TB sufferers in each city. Cities with a higher number of TB sufferers are represented with darker shades of red, while those with fewer sufferers are shown in lighter shades.
+  
+- **City Labels:**
+
+  - Each point on the scatter plot is labeled with the corresponding city name, making it easy to identify which cities have higher or lower numbers of TB sufferers.
+  
+- **Comparison Between Cities:**
+
+  - By examining the scatter plot, one can compare the number of TB sufferers across different cities. This helps identify which cities are more severely affected by TB.
+
+- **Visual Clarity:**
+
+  - The addition of a color bar allows for a quick reference to understand the number of TB sufferers corresponding to the colors on the plot.
+  - The grid lines enhance readability and help in correlating the geographical positions more accurately.
+  
+- **Geospatial Patterns:**
+
+  - The scatter plot may reveal patterns in the geographical distribution of TB sufferers. For example, it may show if certain regions (e.g., northern, southern) have higher concentrations of TB cases.
+
+In summary, this scatter plot provides a clear and informative visualization of the TB burden across major Indian cities, helping public health officials, researchers, and policymakers identify hotspots and allocate resources effectively.
+
 ## Contribution
 
 The programs are written by Santanu Karmakar
